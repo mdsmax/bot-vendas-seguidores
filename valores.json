@@ -1,0 +1,14 @@
+{
+    "valores": {
+        "instagram_seguidores": 2.8,
+        "tiktok_seguidores": 10.35,
+        "instagram_curtidas": 0.25,
+        "tiktok_curtidas": 2.3
+    },
+    "valoresPor1SeguidorCurtida": {
+        "instagram_seguidores": 0.0028,
+        "tiktok_seguidores": 0.01035,
+        "instagram_curtidas": 0.00025,
+        "tiktok_curtidas": 0.0023
+    }
+}

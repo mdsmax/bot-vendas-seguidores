@@ -1,0 +1,12 @@
+lembre-se, troque todos os emojis para não dar erro!
+troque o canal de logs também e ajuste os preços, todos em painel.py!
+
+crie uma conta em https://hiperseguidores.com.br/ e pegue sua key em https://hiperseguidores.com.br/account
+depois coloque suas informacoes em config.json
+
+certifique-se de ter saldo em sua conta da hiper, e colocar todos os dados no config.json certos.
+
+para resolver erros como modulos não encontrados, coloque no terminal:
+pip install requests mercadopago disnake
+
+qualquer duvida me chame na dm: bolsorasgado
